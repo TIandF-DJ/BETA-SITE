@@ -1,7 +1,5 @@
 ---
-layout: page
 title: "Page Demo"
-permalink: /page-demo/
 ---
 
 # This is a Page
