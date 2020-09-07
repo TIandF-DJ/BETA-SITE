@@ -9,3 +9,5 @@ Welcome to BETA SITE. Yes it's a simple name but it's all in the name. This is m
 # Pardon the dust as its always under construction here!
 
 Testing out ATOM/GitHub/Git integration.
+
+This is a [demo page](/page-demo)
